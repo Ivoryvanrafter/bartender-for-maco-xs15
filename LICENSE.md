@@ -1,4 +1,4 @@
-
+Enhance Bartender for macOS with updated Extension for Bartender for macOS - CPU-monitoring and search-enhancement, the #1 extension. Includes CPU-monitoring and
 
 
 
